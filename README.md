@@ -11,11 +11,9 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-- [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 
@@ -161,16 +159,6 @@ Run the following command to run stylelint and check the quality of your CSS cod
 > npx stylelint "**/*.css"
 
 These commands will run the linters and tell you about errors and warnings in your HTML and CSS code.
-
-
-
-AUTHORS
-
-## 👥 Authors: GhostEsso
-
-- GitHub: [@githubhandle](https://github.com/GhostEsso)
-- Twitter: [@twitterhandle](https://twitter.com/TambanaEssohana)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/essohanam-tambana-62aa081a1/?originalSubdomain=tg)
 
 
 
